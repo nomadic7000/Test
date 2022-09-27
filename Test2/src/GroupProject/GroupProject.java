@@ -8,6 +8,11 @@ public class GroupProject {
 	
 	int i = 0;
 	int y = 9;
+    System.out.println(i + y);
+	
+	
+	
+	
 	}
 
 }
